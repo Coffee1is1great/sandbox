@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <g>
+    <g>
+      <ellipse cx="79.72" cy="75.07" rx="45.5" ry="44.32" style="fill: #fff; stroke-width: 0px;"/>
+      <path d="m79.72,35.25c22.61,0,41,17.86,41,39.82s-18.39,39.82-41,39.82-41-17.86-41-39.82,18.39-39.82,41-39.82m0-9c-27.61,0-50,21.86-50,48.82s22.39,48.82,50,48.82,50-21.86,50-48.82-22.39-48.82-50-48.82h0Z" style="stroke-width: 0px;"/>
+    </g>
+    <polyline points="58.12 111.01 58.12 151.25 100.73 151.25 100.73 111.01" style="fill: #fff; stroke: #000; stroke-miterlimit: 10; stroke-width: 9px;"/>
+  </g>
+  <g>
+    <rect x="77.5" y="130.5" width="5" height="15" style="stroke-width: 0px;"/>
+    <path d="m80.5,132.5v11h-1v-11h1m4-4h-9v19h9v-19h0Z" style="stroke-width: 0px;"/>
+  </g>
+</svg>
